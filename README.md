@@ -1,1 +1,2 @@
-# curso-webpack-react
+# Curso-webpack-react
+Configuración básica de webpack
